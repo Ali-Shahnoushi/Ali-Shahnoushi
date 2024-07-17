@@ -1,5 +1,5 @@
-# Hi there guys 👋
-<p style="font-family:vazir">علی شاهنوشی</p>
+# Hi there!‌ I'm Ali Shahnoushi👋
+### About me
 <!--
 **Ali-Shahnoushi/Ali-Shahnoushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
