@@ -15,10 +15,10 @@
   <a href="https://t.me/ali_geek">
    <img src="https://img.shields.io/badge/Telegram-@Ali_geek-blue?style=flat&logo=telegram" />
   </a>
-  <a href="[https://t.me/ali_geek](https://www.instagram.com/ali.shahnoushi/)">
+  <a href="https://www.instagram.com/ali.shahnoushi">
    <img src="https://img.shields.io/badge/Instagram-@Ali.shahnoushi-red?style=flat&logo=instagram" />
   </a>
-  <a href="[https://t.me/ali_geek](https://www.linkedin.com/in/ali-shahnoushi/)">
+  <a href="https://www.linkedin.com/in/ali-shahnoushi">
    <img src="https://img.shields.io/badge/Linkedin-@Ali_shahnoushi-darkblue?style=flat&logo=linkedin" />
   </a>
  </p>
