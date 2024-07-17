@@ -1,5 +1,14 @@
 # Hi there!‌ I'm Ali Shahnoushi👋
-### About me
+### 👨🏻‍💻 About me
+
+- ⚛️ Front-end Developer
+- 💻 Wordpress Developer
+- 🎓 Student of Software Engineering at Mohajer University
+- ⭐ I like music 🎸 and photography 📷
+
+### 🔧 My Technology Skills
+
+- 🌐 [![React]([htttp://img.shield.io/badge/-React-333333?style=flat&logo=react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB))](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <!--
 **Ali-Shahnoushi/Ali-Shahnoushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
