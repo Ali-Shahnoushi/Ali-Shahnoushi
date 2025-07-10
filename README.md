@@ -3,7 +3,7 @@
 
 - ⚛️ Front-end Developer
 - 💻 Wordpress Developer
-- 🎓 Student of Software Engineering at Mohajer University
+- 🎓 Student of Software Engineering
 - ⭐ I like music 🎸 and photography 📷
 ---
 
