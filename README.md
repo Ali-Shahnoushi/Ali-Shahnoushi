@@ -2,7 +2,7 @@
 ### 👨🏻‍💻 About me
 
 - ⚛️ Front-end Developer
-- 💻 Wordpress Developer
+<!-- - 💻 Wordpress Developer -->
 - 🎓 Student of Software Engineering
 - ⭐ I like music 🎸 and photography 📷
 ---
